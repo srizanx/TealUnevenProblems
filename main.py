@@ -1,3 +1,4 @@
+# String Methods
 def initials(phrase):
     words = phrase.split()
     result = ""
